@@ -6,3 +6,4 @@ DAY2- Data types in Javascript.
 DAY3- Type conversion, numbers and math object in javascript.    
 DAY4- How strings behave? What are the various string methods that are available to us?  
 DAY5- Learn everything that i know about template literals and arrays.  
+DAY6- Basics of loops, objects and if-else statement.  
